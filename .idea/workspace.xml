@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de014c1c-f423-47ac-83a6-4d8607821259" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/less/styles.less" afterPath="$PROJECT_DIR$/lib/less/styles.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/css/react-big-calendar.css" afterPath="$PROJECT_DIR$/lib/css/react-big-calendar.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,10 +61,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Click  event</find>
-      <find>Click event</find>
-      <find>Clic event</find>
-      <find>Cli event</find>
       <find>Cl event</find>
       <find>C event</find>
       <find>event</find>
@@ -91,6 +87,10 @@
       <find>z-i</find>
       <find>z-in</find>
       <find>z-inde</find>
+      <find>z-index</find>
+      <find>z-index:</find>
+      <find>z-index:</find>
+      <find>z-index: 4</find>
     </findStrings>
     <replaceStrings>
       <replace>event</replace>
@@ -342,15 +342,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522081063027</updated>
-      <workItem from="1522081067231" duration="3324000" />
+      <workItem from="1522081067231" duration="3431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3324000" />
+    <option name="totallyTimeSpent" value="3431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

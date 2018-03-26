@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de014c1c-f423-47ac-83a6-4d8607821259" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/constants.js" afterPath="$PROJECT_DIR$/lib/utils/constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utils/messages.js" afterPath="$PROJECT_DIR$/lib/utils/messages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/less/styles.less" afterPath="$PROJECT_DIR$/lib/less/styles.less" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/lib/utils/constants.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -42,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/lib/utils/messages.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="21" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="30" selection-end-column="21" />
+              <caret line="30" column="21" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="30" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -62,8 +61,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Click an event</find>
-      <find>Click a event</find>
       <find>Click  event</find>
       <find>Click event</find>
       <find>Clic event</find>
@@ -89,6 +86,11 @@
       <find>aujou</find>
       <find>aujour</find>
       <find>aujourd</find>
+      <find>.rbc-row-content</find>
+      <find>z</find>
+      <find>z-i</find>
+      <find>z-in</find>
+      <find>z-inde</find>
     </findStrings>
     <replaceStrings>
       <replace>event</replace>
@@ -340,16 +342,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522081063027</updated>
-      <workItem from="1522081067231" duration="3024000" />
+      <workItem from="1522081067231" duration="3324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3024000" />
+    <option name="totallyTimeSpent" value="3324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -553,7 +554,7 @@
     <entry file="file://$PROJECT_DIR$/lib/utils/messages.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="30" column="21" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="30" selection-end-column="21" />
+          <caret line="30" column="21" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="30" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -561,7 +562,7 @@
     <entry file="file://$PROJECT_DIR$/lib/utils/constants.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>

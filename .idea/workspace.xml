@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf01f34-43a6-4dd9-869e-83632335ad92" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/TimeGridHeader.js" afterPath="$PROJECT_DIR$/lib/TimeGridHeader.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/css/react-big-calendar.css" afterPath="$PROJECT_DIR$/lib/css/react-big-calendar.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,71 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Calendar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Calendar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12911">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Selection.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Selection.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="980">
-              <caret line="145" column="0" lean-forward="false" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Agenda.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Agenda.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4286">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toolbar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Toolbar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeGridHeader.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/TimeGridHeader.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="701">
-              <caret line="138" column="7" lean-forward="false" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="react-big-calendar.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/css/react-big-calendar.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9016">
-              <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Header.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="378">
+              <caret line="647" column="16" lean-forward="true" selection-start-line="647" selection-start-column="16" selection-end-line="647" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -88,27 +30,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>rbc-tool</find>
-      <find>w</find>
-      <find>weekly</find>
-      <find>weekl</find>
-      <find>week</find>
-      <find>wee</find>
-      <find>rbc</find>
-      <find>rbc-</find>
-      <find>rbc-btn</find>
-      <find>rbc-btn-</find>
-      <find>rbc-toolbar-label</find>
-      <find>rbc-header</find>
-      <find>href=&quot;#&quot;</find>
-      <find>href=&quot;#</find>
-      <find>href=&quot;</find>
-      <find>href=</find>
-      <find>href</find>
-      <find>rbc-label rbc-time-header-gutte</find>
-      <find>rbc-label rbc-time-header</find>
-      <find>rbc-label rbc-time-header-gutter</find>
-      <find>rbc-time-header-</find>
       <find>rbc-time-header-gutter</find>
       <find>p</find>
       <find>previo</find>
@@ -118,6 +39,27 @@
       <find>.rbc</find>
       <find>.rb</find>
       <find>.rbc-toolbar</find>
+      <find>rrbc-event rbc-event-allday</find>
+      <find>rbc-event rbc-event-alldayrbc-event rbc-event-allday</find>
+      <find>rbc-event-allday</find>
+      <find>rbc-event</find>
+      <find>rbc-rowrbc-row-content</find>
+      <find>rbc-row-content</find>
+      <find>rbc-row-contentrbc-allday-cell</find>
+      <find>rbc-row-bg</find>
+      <find>rbc-event rbc-event-allday</find>
+      <find>className</find>
+      <find>rbc-row</find>
+      <find>day</find>
+      <find>eventComponent</find>
+      <find>a</find>
+      <find>all</find>
+      <find>alldat</find>
+      <find>allday</find>
+      <find>r</find>
+      <find>rbc</find>
+      <find>rbc-allday-cell</find>
+      <find>48px</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -134,8 +76,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/Toolbar.js" />
+        <option value="$PROJECT_DIR$/lib/DateContentRow.js" />
         <option value="$PROJECT_DIR$/lib/TimeGridHeader.js" />
+        <option value="$PROJECT_DIR$/lib/Toolbar.js" />
         <option value="$PROJECT_DIR$/lib/css/react-big-calendar.css" />
       </list>
     </option>
@@ -325,15 +268,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522750845937</updated>
-      <workItem from="1522750847557" duration="4360000" />
+      <workItem from="1522750847557" duration="6936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4360000" />
+    <option name="totallyTimeSpent" value="6936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -377,46 +321,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/Selection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="145" column="0" lean-forward="false" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Agenda.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4286">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Calendar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12911">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Toolbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/TimeGridHeader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="701">
-          <caret line="138" column="7" lean-forward="false" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/less/month.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -433,10 +337,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/DateContentRow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="156" column="37" lean-forward="true" selection-start-line="156" selection-start-column="37" selection-end-line="156" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/TimeGridHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="130" column="14" lean-forward="false" selection-start-line="130" selection-start-column="14" selection-end-line="130" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Toolbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Agenda.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="296" column="19" lean-forward="true" selection-start-line="296" selection-start-column="19" selection-end-line="296" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Selection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="88" column="20" lean-forward="false" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12911">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/css/react-big-calendar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9016">
-          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state relative-caret-position="378">
+          <caret line="647" column="16" lean-forward="true" selection-start-line="647" selection-start-column="16" selection-end-line="647" selection-end-column="16" />
           <folding />
         </state>
       </provider>

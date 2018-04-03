@@ -647,3 +647,11 @@ button.rbc-input::-moz-focus-inner {
 .rbc-toolbar-label{
   display: none;
 }
+
+.rbc-allday-cell{
+  height: 48px;
+}
+
+.rbc-event-allday{
+  height: 48px;
+}

@@ -643,3 +643,6 @@ button.rbc-input::-moz-focus-inner {
   display: none;
 }
 
+.rbc-toolbar-label{
+  display: none;
+}

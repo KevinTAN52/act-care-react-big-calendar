@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbf01f34-43a6-4dd9-869e-83632335ad92" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/TimeGridHeader.js" afterPath="$PROJECT_DIR$/lib/TimeGridHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/css/react-big-calendar.css" afterPath="$PROJECT_DIR$/lib/css/react-big-calendar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/less/toolbar.less" afterPath="$PROJECT_DIR$/lib/less/toolbar.less" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,17 +59,27 @@
         <entry file="file://$PROJECT_DIR$/lib/TimeGridHeader.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="701">
-              <caret line="138" column="7" lean-forward="true" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
+              <caret line="138" column="7" lean-forward="false" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="react-big-calendar.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="react-big-calendar.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/css/react-big-calendar.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="642" column="16" lean-forward="false" selection-start-line="642" selection-start-column="16" selection-end-line="642" selection-end-column="16" />
+            <state relative-caret-position="2990">
+              <caret line="634" column="21" lean-forward="false" selection-start-line="634" selection-start-column="21" selection-end-line="634" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Header.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/Header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -80,10 +89,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>T</find>
-      <find>Toolbar</find>
-      <find>rb</find>
-      <find>rbc.</find>
       <find>rbc-t</find>
       <find>rbc-tool</find>
       <find>w</find>
@@ -106,10 +111,14 @@
       <find>rbc-label rbc-time-header</find>
       <find>.rb</find>
       <find>rbc-label rbc-time-header-gutter</find>
-      <find>.rbc</find>
-      <find>.</find>
       <find>rbc-time-header-</find>
       <find>rbc-time-header-gutter</find>
+      <find>p</find>
+      <find>previo</find>
+      <find>previou</find>
+      <find>previous</find>
+      <find>.</find>
+      <find>.rbc</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -317,12 +326,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522750845937</updated>
-      <workItem from="1522750847557" duration="3262000" />
+      <workItem from="1522750847557" duration="3523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3262000" />
+    <option name="totallyTimeSpent" value="3523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="6" />
@@ -405,7 +414,7 @@
     <entry file="file://$PROJECT_DIR$/lib/TimeGridHeader.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="701">
-          <caret line="138" column="7" lean-forward="true" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
+          <caret line="138" column="7" lean-forward="false" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -420,8 +429,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/css/react-big-calendar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="642" column="16" lean-forward="false" selection-start-line="642" selection-start-column="16" selection-end-line="642" selection-end-column="16" />
+        <state relative-caret-position="2990">
+          <caret line="634" column="21" lean-forward="false" selection-start-line="634" selection-start-column="21" selection-end-line="634" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
           <folding />
         </state>
       </provider>

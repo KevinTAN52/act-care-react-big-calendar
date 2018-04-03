@@ -638,3 +638,8 @@ button.rbc-input::-moz-focus-inner {
   background-color: #74ad31;
   pointer-events: none;
 }
+
+.rbc-time-header-gutter{
+  display: none;
+}
+

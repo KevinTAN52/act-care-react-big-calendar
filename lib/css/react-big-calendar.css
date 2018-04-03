@@ -600,7 +600,6 @@ button.rbc-input::-moz-focus-inner {
 .rbc-time-content {
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex;
   -webkit-flex: 1 0 0%;
       -ms-flex: 1 0 0%;
           flex: 1 0 0%;
@@ -611,6 +610,7 @@ button.rbc-input::-moz-focus-inner {
   border-top: 2px solid #DDD;
   overflow-y: auto;
   position: relative;
+  display: none;
 }
 .rbc-time-content > .rbc-time-gutter {
   -webkit-flex: none;

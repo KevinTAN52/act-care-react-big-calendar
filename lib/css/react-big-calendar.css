@@ -655,3 +655,11 @@ button.rbc-input::-moz-focus-inner {
 .rbc-event-allday{
   height: 48px;
 }
+
+.rbc-passed{
+  background-color: #D3D3D3;
+  padding: 2px 5px;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}

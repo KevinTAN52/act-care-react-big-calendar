@@ -5,6 +5,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/EventCell.js" afterPath="$PROJECT_DIR$/lib/EventCell.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/addons/dragAndDrop/styles.css" afterPath="$PROJECT_DIR$/lib/addons/dragAndDrop/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/css/react-big-calendar.css" afterPath="$PROJECT_DIR$/lib/css/react-big-calendar.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,31 +17,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Toolbar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Toolbar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="106" column="39" lean-forward="true" selection-start-line="106" selection-start-column="39" selection-end-line="106" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/addons/dragAndDrop/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="EventCell.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/EventCell.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="12" />
+            <state relative-caret-position="1575">
+              <caret line="105" column="8" lean-forward="false" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="react-big-calendar.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/css/react-big-calendar.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="739">
+              <caret line="664" column="1" lean-forward="false" selection-start-line="664" selection-start-column="1" selection-end-line="664" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -50,23 +41,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>rbc-rowrbc-row-content</find>
-      <find>rbc-row-content</find>
-      <find>rbc-row-contentrbc-allday-cell</find>
-      <find>rbc-row-bg</find>
-      <find>rbc-event rbc-event-allday</find>
-      <find>className</find>
-      <find>rbc-row</find>
-      <find>day</find>
-      <find>eventComponent</find>
-      <find>a</find>
-      <find>all</find>
-      <find>alldat</find>
-      <find>allday</find>
-      <find>r</find>
-      <find>rbc</find>
-      <find>rbc-allday-cell</find>
-      <find>48px</find>
       <find>border</find>
       <find>.rbc-event</find>
       <find>placegol</find>
@@ -80,6 +54,23 @@
       <find>pla</find>
       <find>rbc-event-allday</find>
       <find>rbc-event</find>
+      <find>all</find>
+      <find>isAllDay</find>
+      <find>e</find>
+      <find>eventC</find>
+      <find>eventCell</find>
+      <find>eventr</find>
+      <find>eventrowmi</find>
+      <find>eventrowmix</find>
+      <find>eventrowmixi</find>
+      <find>eventrowmixin</find>
+      <find>event</find>
+      <find>pr</find>
+      <find>props</find>
+      <find>prop</find>
+      <find>events</find>
+      <find>start</find>
+      <find>allday</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -98,9 +89,11 @@
       <list>
         <option value="$PROJECT_DIR$/lib/DateContentRow.js" />
         <option value="$PROJECT_DIR$/lib/TimeGridHeader.js" />
-        <option value="$PROJECT_DIR$/lib/css/react-big-calendar.css" />
         <option value="$PROJECT_DIR$/lib/Toolbar.js" />
         <option value="$PROJECT_DIR$/lib/addons/dragAndDrop/styles.css" />
+        <option value="$PROJECT_DIR$/lib/EventRowMixin.js" />
+        <option value="$PROJECT_DIR$/lib/css/react-big-calendar.css" />
+        <option value="$PROJECT_DIR$/lib/EventCell.js" />
       </list>
     </option>
   </component>
@@ -159,6 +152,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="act-care-react-big-calendar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="act-care-react-big-calendar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -292,12 +303,12 @@
       <workItem from="1526747765839" duration="35000" />
       <workItem from="1526747938831" duration="2000" />
       <workItem from="1527513490074" duration="1676000" />
-      <workItem from="1532384600734" duration="360000" />
+      <workItem from="1532384600734" duration="2649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10315000" />
+    <option name="totallyTimeSpent" value="12604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="0" />
@@ -411,26 +422,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/package.json" />
     <entry file="file://$PROJECT_DIR$/lib/Calendar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12911">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/package.json" />
-    <entry file="file://$PROJECT_DIR$/lib/css/react-big-calendar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="209" column="17" lean-forward="false" selection-start-line="209" selection-start-column="17" selection-end-line="209" selection-end-column="17" />
+        <state relative-caret-position="-3580">
+          <caret line="307" column="8" lean-forward="false" selection-start-line="307" selection-start-column="2" selection-end-line="307" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Toolbar.js">
+    <entry file="file://$PROJECT_DIR$/lib/EventRowMixin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="106" column="39" lean-forward="true" selection-start-line="106" selection-start-column="39" selection-end-line="106" selection-end-column="39" />
+        <state relative-caret-position="104">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -438,15 +442,31 @@
     <entry file="file://$PROJECT_DIR$/lib/addons/dragAndDrop/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="74" column="1" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Toolbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="106" column="39" lean-forward="false" selection-start-line="106" selection-start-column="39" selection-end-line="106" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/css/react-big-calendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="664" column="1" lean-forward="false" selection-start-line="664" selection-start-column="1" selection-end-line="664" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/EventCell.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="12" />
+        <state relative-caret-position="1575">
+          <caret line="105" column="8" lean-forward="false" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="8" />
           <folding />
         </state>
       </provider>

@@ -669,5 +669,5 @@ button.rbc-input::-moz-focus-inner {
   padding: 2px 5px;
   border-radius: 5px;
   color: #fff;
-  cursor: pointer;
+  cursor: default;
 }

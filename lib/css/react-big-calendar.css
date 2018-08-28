@@ -663,3 +663,11 @@ button.rbc-input::-moz-focus-inner {
   color: #fff;
   cursor: pointer;
 }
+
+.rbc-blacked{
+  background-color: black;
+  padding: 2px 5px;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
